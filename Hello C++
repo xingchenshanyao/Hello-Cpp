@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+#include<string> //字符串头文件
+#include<ctime> //时间头文件
+#include<unistd.h> //Linux/unix 的系统调用
+#include<fstream> //文件操作头文件
+
+
+
+int main()
+{
+    
+    
+    cout<<"----------------------------------------------------------------------"<<endl;
+    //pause();
+    return 0;
+}
